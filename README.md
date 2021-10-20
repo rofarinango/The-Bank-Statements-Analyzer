@@ -4,7 +4,7 @@ This repository contains Chapters 2 and 3 solution for the book "Real World Soft
 The Bank Statements Analyzer is a program to analyze bank statements. Here we learn about object-oriented design techniques such as Single Responsability Principle, some design patterns, we learn about coupling and cohesion.
 
 ## User Story
-The user wants the bank statements analyzer to read a text file containing a list of bank transactions. At first this text is structured a comma-separated values therefore CSV format. He will like to know the total profit and loss from a list of bank statements, he wants to know how many bank transactions are there in a particular month. He wants to know what are his top-10 expenses.
+The user wants the bank statements analyzer to read a text file containing a list of bank transactions. At first this text is structured a comma-separated values therefore CSV format. He will like to know the total profit and loss from a list of bank statements, he wants to know how many bank transactions are there in a particular month. He wants to know what are his top-10 expenses and so on.
 
 ## UML Class Diagram
 ![The Bank Statements Analyzer - UML Class Diagram-1](https://user-images.githubusercontent.com/47066093/137827855-b06d8dcc-4fa6-44c1-925e-78d0b4f26490.png)
