@@ -7,4 +7,7 @@ The Bank Statements Analyzer is a program to analyze bank statements. Here we le
 The user wants the bank statements analyzer to read a text file containing a list of bank transactions. At first this text is structured a comma-separated values therefore CSV format. He will like to know the total profit and loss from a list of bank statements, he wants to know how many bank transactions are there in a particular month. He wants to know what are his top-10 expenses and so on.
 
 ## UML Class Diagram
+
+The following image shows the UML Class Diagram for this project.
+
 ![The Bank Statements Analyzer - UML Class Diagram-1](https://user-images.githubusercontent.com/47066093/137827855-b06d8dcc-4fa6-44c1-925e-78d0b4f26490.png)
